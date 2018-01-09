@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultConditionTagSet
   Comment="My set of condition tags"
   conditions="">
   <ConditionTag
-    Comment=""
+    Comment="Only for PDF"
     Name="PDF"
     BackgroundColor="Red" />
   <ConditionTag
     BackgroundColor="#98fb98"
     Name="Online"
-    Comment=""
+    Comment="Only for Web"
     Color="Normal"
     OriginalName="Online" />
 </CatapultConditionTagSet>

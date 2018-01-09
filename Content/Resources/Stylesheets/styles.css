@@ -277,4 +277,13 @@ p.ManualVersionNumber
 		margin-left: 0.10in;
 		margin-top: 2px;
 	}
+
+	p.FlareWorkshop
+	{
+		font-family: 'Bradley Hand ITC';
+		color: #9370db;
+		border-bottom: double 2px #000000;
+		font-size: x-large;
+	}
 }
+
